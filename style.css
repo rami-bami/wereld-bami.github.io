@@ -1,0 +1,105 @@
+#menu li {
+  display: inline;
+  float: left;
+  border: 1px solid #24f924;
+  background-color: #5476f2;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+}
+
+#menu a {
+  color: #24f924;
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+}
+
+#menu a:hover {
+  color: green;
+  background-color: white;
+  font-size: 25px;
+}
+
+#begin td{
+  color: #0e2fa3;
+}
+
+h1 {
+  color: #50f278;
+  border-radius: 20px;
+  font-size: 30px ;
+}
+
+body {
+  background: url("https://th.bing.com/th/id/R.96d4d2e90c42d434771ad329e45f8164?rik=iiCDu9BtlwjFDA&riu=http%3a%2f%2fi.stack.imgur.com%2fcW58r.jpg&ehk=LR%2fefHhdMVtLyfJXgv5v2jRWNJ5RWvSQpQGg47aO9fM%3d&risl=&pid=ImgRaw&r=0")
+}
+
+#p1 {
+  color: #ffffb3;
+}
+
+#kopje {
+  color: #ac40d4;
+}
+
+#quiz li {
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+#quiz a {
+  color: #ffffb3;
+  text-decoration: none;
+  padding: 10px;
+}
+
+#quiz a:hover {
+  color: #ffffb3;
+  font-size: 25px;
+
+th {
+  border: 5px solid lightgray;
+  border-collapse: collapse;
+  font-style: Pixel FJVerdana 12pt;
+}
+td {
+  border: 5px solid lightgray;
+  border-collapse: collapse;
+  background-color: #990000;
+  color:  #ffdb4d;
+}
+
+table {
+  background-color: red;
+  border: 12px solid blue;
+  border-radius: 200px;
+  color: red;
+}
+
+a {
+  color: #ffffb3;
+}
+
+body {
+  font-style: oblique;
+}
+
+#eindtabel table {
+  border: 5px solid lightgray;
+  border-collapse: collapse;
+}
+
+#eindtabel th {
+  border: 5px solid lightgray;
+  border-collapse: collapse;
+  font-style: Pixel FJVerdana 12pt;
+}
+#eindtabel td { 
+  border: 5px solid lightgray;
+  border-collapse: collapse;
+  background-color: #990000;
+  color:  #ffdb4d;
+}
